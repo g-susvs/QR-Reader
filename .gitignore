@@ -32,6 +32,12 @@ migrate_working_dir/
 .pub/
 /build/
 
+/.vscode
+/linux
+/macos
+/web
+/windows
+
 # Web related
 lib/generated_plugin_registrant.dart
 

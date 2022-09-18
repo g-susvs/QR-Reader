@@ -2,7 +2,7 @@
 
 Un nuevo proyecto del [curso de Flutter](https://www.udemy.com/course/flutter-ios-android-fernando-herrera/) 😁.
 
-
+<img src="./assets/GIF-220918_002052.gif" width="150">
 <!-- ## Pendiente
 - ✅ crear cada body para cada opción seleccionada
 - ✅ simular lista de IP
